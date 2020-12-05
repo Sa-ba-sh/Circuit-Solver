@@ -1,2 +1,3 @@
 # Circuit-Solver
-Version1
+
+Yay!! This is a circuit solver that solves any kind of resistive circuit for you. 
