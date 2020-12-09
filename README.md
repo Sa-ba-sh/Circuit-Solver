@@ -11,5 +11,8 @@
 * Easy to handle user interface, as simple as filling a form.
 * Images displyed for each type of the element to user for enterring the correct input.
 
+## Contributions
+We do welcome any kind of contributions, feel free to fork it and create a pull requests. Whenever you find any kind of bugs in the code or any optimization in the code feel free to contribute to us. 
+
 ## Disclaimer
 This is a computer aided software and hence there is no gaurentee by the developers for ensuring the creditability of the results that the software outputs. Though the softare has been tested against a large number of custom inputs, there are situations where it can fail. If you come across any such problem, please feel free to rise a issue here or provide your feedback in the website and we will try to address the issue as soon as possible.
