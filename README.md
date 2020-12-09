@@ -1,5 +1,7 @@
 # Circuit Solver  :))  ***Short your time, we open your answer***
 
+[![Generic badge](https://img.shields.io/badge/python-2.7-<COLOR>.svg)](https://shields.io/)
+
 **Have you ever fed up of solving complicated circuits with lots of bridges and pillars ?**
 
 *Fret Not!! You have then reached the right place, this is a computer aided software, that solves you any kind of resistive circuit instantly in no pain.*
