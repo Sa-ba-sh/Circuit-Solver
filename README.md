@@ -6,7 +6,8 @@
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Generic badge](https://img.shields.io/badge/contributions%3F-welcome-<COLOR>.svg)](https://shields.io/)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
-  
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
+
 **Have you ever fed up of solving complicated circuits with lots of bridges and pillars ?**
 
 *Fret Not!! You have then reached the right place, this is a computer aided software, that solves you any kind of resistive circuit instantly in no pain.*
