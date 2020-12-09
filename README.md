@@ -11,6 +11,9 @@
 * Easy to handle user interface, as simple as filling a form.
 * Images displyed for each type of the element to user for enterring the correct input.
 
+## Working principle
+We have algorithmically implemented the technique of ***Modified Nodal Analysis (MNA)*** for solving any kind of 
+
 ## Contributions
 We do welcome any kind of contributions, feel free to fork it and create a pull requests. Whenever you find any kind of bugs in the code or any optimization in the code feel free to contribute to us. 
 
