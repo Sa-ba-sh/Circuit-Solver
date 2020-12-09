@@ -1,6 +1,10 @@
 # Circuit Solver  :))  ***Short your time, we open your answer***
 
-[![Generic badge](https://img.shields.io/badge/python-2.7-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/python-3-<COLOR>.svg)](https://shields.io/)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Generic badge](https://img.shields.io/badge/contributions%3F-welcome-<COLOR>.svg)](https://shields.io/)
 
 **Have you ever fed up of solving complicated circuits with lots of bridges and pillars ?**
 
