@@ -24,7 +24,7 @@ We are currently in our sophomore yearof study and have a course on electric cir
 @Baladhinesh please fill this with the content of how you have implemented the coding part.
 
 ## Future Goals
-Currently in this preliminary version,
+Currently in this preliminary version, the user should do all the node planning and enter the input values, this basically reuires th user to draw the circuit initially on some piece of paper and then start implementing it. This is quite painfull job and hence we have decided to upgrade the software into a complete GUI enabledone, where the user has a freedom to design the circuit in real time and do nothing else, the system itself starts to process them(node planning and recognising inputs) and just displays the output.
 
 ## Contributions
 We do welcome any kind of contributions, feel free to fork it and create a pull requests. Whenever you find any kind of bugs in the code or any optimization in the code feel free to contribute to us. 
