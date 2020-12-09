@@ -12,7 +12,7 @@
 * Images displyed for each type of the element to user for enterring the correct input.
 
 ## Working principle
-We have algorithmically implemented the technique of ***Modified Nodal Analysis (MNA)*** for solving any kind of resistive circuit. MNA is an advanced version of the existing principle of nodal analysis, in which some changes are made so as to implement it using any computer program. This is our basic implementation of the complete project of a circuit solver. In this preliminary version we have just implemented the backend process of MNA. Here the user must do all the node planning and enter the correct inputs as prompted by the software. 
+We have algorithmically implemented the technique of ***Modified Nodal Analysis (MNA)*** for solving any kind of resistive circuit. MNA is an advanced version of the existing principle of nodal analysis, in which some changes are made so as to implement it using any computer program. This is our basic implementation of the complete project of a circuit solver. In this preliminary version we have just implemented the backend process of MNA. Here the user must do all the node planning and enter the correct inputs(number of elements, number of nodes, each element type and it's details) as prompted by the software. 
 
 ## Implementation
 @ Bala please fill this with the content of how you have implemented the coding part.
