@@ -1,6 +1,7 @@
-language: node_js
-
-node_js:
-  - 7
-  
-make test
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: af455ef3b2be0b5716278f5b777cc79bfe2e35e1
+  keep_history: true
+  on:
+    branch: master
