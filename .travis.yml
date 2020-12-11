@@ -1,6 +1,7 @@
 deploy:
   provider: pages
   skip_cleanup: true
+  github_token: "travis-ci"
   keep_history: true
   on:
     branch: master
