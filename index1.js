@@ -1531,7 +1531,7 @@ function printResults() {
         var temp = n_l;
         n_l = n_k;
         n_k = temp;
-        if (n_l <= ccvs_high) {
+        if (n_l <= cccs_high) {
           n_l = n_l - 1;
         }
       } else if (n_k == cccs_high && n_l == cccs_low) {
